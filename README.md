@@ -19,13 +19,15 @@ This script automates the process of:
 
 ## Installation
 
-1. Clone the repository
+1. Clone this repository
+
 2. Make the script executable:
-```bash
-chmod +x script.sh
-```
+
 3. Run the script:
+
 ```bash
+git clone https://github.com/border-b/rem-installer.git && cd rem-installer
+chmod +x script.sh
 ./script.sh
 ```
 
